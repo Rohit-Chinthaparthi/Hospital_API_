@@ -27,7 +27,6 @@ Start the server
   
 ## Documentation
 
-Root Hosted Link - https://github.com/Rohit-Chinthaparthi/Hospital_API_
 Routes :
 
     a. /doctors/register - Registers a new Doctor.
